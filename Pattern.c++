@@ -5,15 +5,19 @@ int main()
 {
     int row, column, n;
     // cin >> row>> column;
-    cin >> n;
+    cin >> row >> column;
 
     // RECTANGLE
+    // n = 1;
     // for (int i = 1; i <= row; i++)
     // {
-    //     for (int j = 1; j<=column; j++){
-    //         cout<<"*";
+    //     for (int j = 1; j <= column; j++)
+    //     {
+    //         cout << n << " ";
+    //         n++;
     //     }
-    //     cout<<"\n";
+
+    //     cout << "\n";
     // }
 
     // HOLLOW RECTANGLE
